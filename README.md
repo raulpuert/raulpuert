@@ -62,24 +62,26 @@ raul@github:~$ ▌
 - ✅ **40 tests** verifying the mathematical invariants of every attack, CI-green on Python 3.10 & 3.12
 - 📊 **Every number is reproducible** — models trained on CPU, checkpoints included, one script regenerates all results
 
-### 📊 GitHub stats
+### 🔭 Now
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raulpuert&theme=tokyonight" width="100%" alt="profile details"/>
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raulpuert&theme=tokyonight" width="49%" alt="repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raulpuert&theme=tokyonight" width="49%" alt="most commit language"/>
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raulpuert&theme=tokyonight" width="49%" alt="stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raulpuert&theme=tokyonight" width="49%" alt="productive time"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=raulpuert&hide_border=true&background=00000000&stroke=7AA2F7&ring=7AA2F7&fire=E0AF68&currStreakLabel=7AA2F7&sideLabels=C0CAF5&dates=8B95A5" height="170" alt="streak"/>
-</div>
+- 🔨 Building **black-box attacks** (SPSA, Square Attack) for [adversarial-ml-playground](https://github.com/raulpuert/adversarial-ml-playground/issues/1) — the model I trained resists gradients; now I'm learning to attack it without them
+- 📖 Reading *Obfuscated Gradients Give a False Sense of Security* (Athalye et al., 2018) — why 7 of 9 ICLR'18 defenses fell
+- 🧠 Deepening **C++ and Java** on the side of my ML work
+
+### 🗺️ Roadmap · adversarial-ml-playground
+
+- [ ] Black-box attacks: SPSA & Square Attack — [#1](https://github.com/raulpuert/adversarial-ml-playground/issues/1)
+- [ ] Adaptive EOT attacks against stochastic defenses — [#2](https://github.com/raulpuert/adversarial-ml-playground/issues/2)
+- [ ] TRADES as a Madry alternative — [#3](https://github.com/raulpuert/adversarial-ml-playground/issues/3)
+- [ ] Fashion-MNIST & SVHN datasets — [#4](https://github.com/raulpuert/adversarial-ml-playground/issues/4)
+- [ ] Certified L∞ radius via forward-mode smoothing — [#5](https://github.com/raulpuert/adversarial-ml-playground/issues/5)
+- [ ] Interactive demo on Hugging Face Spaces — [#6](https://github.com/raulpuert/adversarial-ml-playground/issues/6)
+- [ ] English documentation (ES stays first-class) — [#7](https://github.com/raulpuert/adversarial-ml-playground/issues/7)
 
 ### 🛠️ Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,numpy,pandas,git,github,linux,vscode,bash,md&theme=dark" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,pytorch,numpy,pandas,git,github,linux,vscode,bash,md&theme=dark" alt="tech stack"/>
 </div>
 
 <br/>
