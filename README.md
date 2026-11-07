@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/raulpuert">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono:wght@600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=3rd-year+CS+student+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+break+neural+networks+%E2%80%94+then+teach+them+to+fight+back;Python+%C2%B7+PyTorch+%C2%B7+Adversarial+ML;Building+in+public%2C+one+attack+at+a+time" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono:wght@600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=3rd-year+CS+student+from+Spain;I+break+neural+networks+%E2%80%94+then+teach+them+to+fight+back;Python+%C2%B7+PyTorch+%C2%B7+Adversarial+ML;Building+in+public%2C+one+attack+at+a+time" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -14,20 +14,18 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-
 ### 🎯 What I do
 
-This is what a **99%-accurate MNIST classifier** looks like after meeting me — a real adversarial attack, frame by frame:
+<div align="center">
 
-<img src="assets/attack_demo.gif" width="100%" alt="FGSM attack: confidence jumps from 4 to 8 as epsilon grows"/>
+This is what a **99%-accurate MNIST classifier** looks like after meeting me —
+a real adversarial attack, frame by frame:
+
+<img src="assets/attack_demo.gif" width="420" alt="FGSM attack: confidence jumps from 4 to 8 as epsilon grows"/>
 
 <sub><i>Same image. Invisible perturbation. Different prediction. My repo generates this live.</i></sub>
 
-    </td>
-    <td width="45%" valign="top">
+</div>
 
 ### 🧠 About me
 
@@ -44,10 +42,6 @@ raul@github:~$ ▌
 ```
 
 > *"Break it, understand it, defend it."*
-
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <img src="assets/matrix_divider.gif" width="100%" alt="matrix divider"/>
