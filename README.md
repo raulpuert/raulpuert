@@ -51,7 +51,7 @@ raul@github:~$ ▌
 
 <div align="center">
 
-[![adversarial-ml-playground](https://img.shields.io/badge/⚔️-adversarial--ml--playground-7AA2F7?style=for-the-badge&labelColor=1A1B2E)](https://github.com/raulpuert/adversarial-ml-playground)
+[![adversarial-ml-playground](https://img.shields.io/badge/🚀-adversarial--ml--playground-7AA2F7?style=for-the-badge&labelColor=1A1B2E)](https://github.com/raulpuert/adversarial-ml-playground)
 <img src="https://img.shields.io/github/stars/raulpuert/adversarial-ml-playground?style=for-the-badge&color=7AA2F7&labelColor=1A1B2E&label=stars" alt="stars"/>
 <img src="https://img.shields.io/github/license/raulpuert/adversarial-ml-playground?style=for-the-badge&color=2EA043&labelColor=1A1B2E" alt="MIT license"/>
 
